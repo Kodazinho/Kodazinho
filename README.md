@@ -44,10 +44,10 @@
 
 - 🤖 **Drakyy (Bot de Discord)**: Bot de RPG focado em Jujutsu Kaisen no Discord.
 
-- 📂 **Nuval**: Site para guardar e gerênciar seus arquivos em nuvem.
+- 📂 **Nuval**: Site para guardar e gerênciar seus arquivos em nuvem.  
  [🌐 nuval.onrender.com](https://nuval.onrender.com)
 
-- 🍽️ **Urito**: Sistema para gerênciar pequenos e grandes restaurantes/fast-foods.
+- 🍽️ **Urito**: Sistema para gerênciar pequenos e grandes restaurantes/fast-foods.  
  [🌐 urito.onrender.com](https://urito.onrender.com)
 
 ---
