@@ -42,27 +42,17 @@
 - 🔧 **SpikeOut**: Plataforma moderna para aprender idiomas  
   [🌐 spikeout.com.br](https://spikeout.com.br)
 
-- 🤖 **Cápsula do Tempo (Bot Discord)**: Envie mensagens e conteúdos para o futuro. Um bot com sistema nostálgico, herança e interações únicas.
+- 🤖 **Drakyy (Bot de Discord)**: Bot de RPG focado em Jujutsu Kaisen no Discord.
 
-- 📂 **Sistema de Arquivos**: Interface para gerenciar pastas e arquivos com upload via stream, cache inteligente e múltiplos servidores locais.
+- 📂 **Nuval**: Site para guardar e gerênciar seus arquivos em nuvem.
 
-- 🍽️ **Sistema de Restaurante**: Arquitetura com múltiplos módulos (atendimento, cozinha, administração), usando Node.js localmente com React no front.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MisteriosoX&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisteriosoX&layout=compact&theme=radical" />
-</p>
+- 🍽️ **Urito**: Sistema para gerênciar pequenos e grandes restaurantes/fast-foods.
 
 ---
 
 ### 📫 Onde me encontrar
-- ✉️ Entre em contato comigo por aqui mesmo ou no meu site pessoal
-- 💬 Sempre aberto para conversar sobre projetos, parcerias ou ideias criativas!
+- 📷 Instagram: [@koda.ejs](https://www.instagram.com/koda.ejs/)
+- 💬 Discord: **kodadev**
 
 ---
 
