@@ -1,75 +1,87 @@
-<h1 align="center">Olá, eu sou o Koda 👨‍💻</h1>
+# Olá, eu sou o Koda 👨‍💻
 
-<p align="center">
-  Desenvolvedor Fullstack apaixonado por criar soluções inteligentes com foco em desempenho, estética e experiência de usuário.
-</p>
+Desenvolvedor **Fullstack** apaixonado por criar soluções inteligentes com foco em **desempenho**, **estética** e **experiência de usuário**.
 
 ---
 
-### 🚀 Sobre Mim
+## 🚀 Sobre Mim
 
-- 🎓 **Estudante de informática** na Etec.
-- 🧩 **Criador de sistemas complexos** com integrações inteligentes.
-- ⚙️ **Back-end e Front-end** focando sempre em performance e organização.
-- 🌍 **Fundador do SpikeOut**, uma plataforma moderna para o aprendizado de idiomas.
-- 💭 **Sempre buscando inovação** e melhorias nos projetos em que me envolvo.
+Sou um **estudante de informática** na Etec com uma paixão genuína por tecnologia e inovação. Minha trajetória é marcada pela criação de **sistemas complexos** com integrações inteligentes, sempre buscando equilibrar qualidade técnica com design excepcional.
 
----
+Atuo tanto no **Back-end** quanto no **Front-end**, com foco constante em **performance** e **organização** do código. Sou o **fundador do SpikeOut**, uma plataforma moderna para aprendizado de idiomas que oferece uma experiência interativa e intuitiva.
 
-### 🛠️ **Tecnologias & Ferramentas que utilizo**
-
-#### **Linguagens de Programação**:
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
-- ![EJS](https://img.shields.io/badge/EJS-ffc300?style=flat-square&logo=javascript&logoColor=black)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-#### **Back-End**:
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-#### **Front-End**:
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-#### **APIs & Ferramentas**:
-- ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-- ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=black)
-- ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=azure&logoColor=white)
-- ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+Acredito que a inovação é um processo contínuo, e estou sempre em busca de melhorias e novas tecnologias para aplicar nos projetos em que me envolvo.
 
 ---
 
-### 🚀 **Meus Projetos em Destaque**
+## 🛠️ Habilidades Técnicas
 
-🔧 **[SpikeOut](https://spikeout.com.br)**  
-Plataforma moderna para aprender idiomas com uma interface interativa.
+Minha stack é diversificada, permitindo-me atuar em todas as camadas de uma aplicação, desde a infraestrutura até a interface do usuário.
 
-🤖 **Drakyy (Bot de Discord)**  
-Bot de RPG focado em **Jujutsu Kaisen**, proporcionando uma experiência única para os fãs.
+### 💻 Linguagens de Programação
 
-📂 **[Nuval](https://nuval.onrender.com)**  
-Sistema simples e eficiente para armazenar e gerenciar arquivos na nuvem.
+| Linguagem | Nível |
+| :--- | :--- |
+| **JavaScript** | ⭐⭐⭐⭐⭐ |
+| **TypeScript** | ⭐⭐⭐⭐⭐ |
+| **Python** | ⭐⭐⭐⭐ |
+| **PHP** | ⭐⭐⭐⭐ |
+| **SQL** | ⭐⭐⭐⭐⭐ |
+| **C#** | ⭐⭐⭐ |
 
-🍽️ **[Urito](https://urito.onrender.com)**  
-Sistema de gestão para pequenos e grandes restaurantes e fast foods, com foco em eficiência e organização.
+### 🎨 Front-End
+
+| Tecnologia | Descrição |
+| :--- | :--- |
+| **React** | Desenvolvimento de interfaces dinâmicas e responsivas |
+| **Tailwind CSS** | Estilização moderna e utilitária |
+| **HTML5** | Marcação semântica e acessível |
+| **CSS3** | Animações, layouts avançados e design responsivo |
+| **EJS** | Templating dinâmico |
+
+### ⚙️ Back-End & Banco de Dados
+
+| Tecnologia | Descrição |
+| :--- | :--- |
+| **Node.js** | Runtime JavaScript para servidor |
+| **Express.js** | Framework web minimalista e flexível |
+| **MongoDB** | Banco de dados NoSQL orientado a documentos |
+
+### 🔧 Ferramentas & Infraestrutura
+
+| Ferramenta | Uso |
+| :--- | :--- |
+| **Git** | Controle de versão e colaboração |
+| **Firebase** | Backend como serviço e realtime database |
+| **Azure** | Computação em nuvem e hospedagem |
+| **Nginx** | Servidor web e proxy reverso |
+| **Linux** | Sistema operacional e administração de servidores |
+| **Cloudinary** | Gerenciamento e otimização de imagens |
+| **Discord.js** | Desenvolvimento de bots para Discord |
 
 ---
 
-### 📫 **Onde me Encontrar**
+## 💡 Filosofia de Desenvolvimento
 
-- 📷 **Instagram**: [@koda.ejs](https://www.instagram.com/koda.ejs/)
-- 💬 **Discord**: **kodadev**
+Acredito que **desenvolver não é só programar**. É transformar ideias em experiências reais que impactam a vida das pessoas. Cada projeto que toco é uma oportunidade de criar algo que combine:
+
+- **Performance**: Código otimizado e aplicações rápidas
+- **Estética**: Interfaces bonitas e intuitivas
+- **Experiência**: Fluxos que fazem sentido e delightam o usuário
 
 ---
 
-> *"Desenvolver não é só programar. É transformar ideias em experiências reais."*
+## 📫 Conecte-se Comigo
+
+Estou sempre aberto a novas conexões, oportunidades e conversas sobre tecnologia!
+
+- **Instagram**: [@koda.ejs](https://www.instagram.com/koda.ejs/)
+- **Discord**: `kodadev`
+
+---
+
+<div align="center">
+
+**"Desenvolver não é só programar. É transformar ideias em experiências reais."**
+
+</div>
