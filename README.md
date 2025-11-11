@@ -10,11 +10,11 @@
 ## Talking about Personal Stuffs:
 
 - 💻 I'm currently working on **SpikeOut**, a modern platform for language learning;
-- 🎓 I'm a **Computer Science student** at Etec;
+- 🎓 I am a **Computer Science student specializing in internet technology** at Etec;
 - 🧩 Passionate about building **complex systems** with intelligent integrations;
 - ⚙️ Focused on **Back-end** and **Front-end** development with emphasis on performance and code organization;
 - 💡 Always seeking **innovation** and improvements in the projects I work on;
-- 📧 How to reach me: [kodadev@email.com](mailto:kodadev@email.com);
+- 📧 How to reach me: [andeyaelydio@gmail.com](mailto:andeyaelydio@gmail.com);
 
 ---
 
@@ -44,14 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koda&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
