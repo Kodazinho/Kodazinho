@@ -1,87 +1,82 @@
-# Olá, eu sou o Koda 👨‍💻
+# Hi, I'm **Koda**, a Developer 🚀 from Brazil.
 
-Desenvolvedor **Fullstack** apaixonado por criar soluções inteligentes com foco em **desempenho**, **estética** e **experiência de usuário**.
-
----
-
-## 🚀 Sobre Mim
-
-Sou um **estudante de informática** na Etec com uma paixão genuína por tecnologia e inovação. Minha trajetória é marcada pela criação de **sistemas complexos** com integrações inteligentes, sempre buscando equilibrar qualidade técnica com design excepcional.
-
-Atuo tanto no **Back-end** quanto no **Front-end**, com foco constante em **performance** e **organização** do código. Sou o **fundador do SpikeOut**, uma plataforma moderna para aprendizado de idiomas que oferece uma experiência interativa e intuitiva.
-
-Acredito que a inovação é um processo contínuo, e estou sempre em busca de melhorias e novas tecnologias para aplicar nos projetos em que me envolvo.
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/koda.ejs/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Talking about Personal Stuffs:
 
-Minha stack é diversificada, permitindo-me atuar em todas as camadas de uma aplicação, desde a infraestrutura até a interface do usuário.
-
-### 💻 Linguagens de Programação
-
-| Linguagem | Nível |
-| :--- | :--- |
-| **JavaScript** | ⭐⭐⭐⭐⭐ |
-| **TypeScript** | ⭐⭐⭐⭐⭐ |
-| **Python** | ⭐⭐⭐⭐ |
-| **PHP** | ⭐⭐⭐⭐ |
-| **SQL** | ⭐⭐⭐⭐⭐ |
-| **C#** | ⭐⭐⭐ |
-
-### 🎨 Front-End
-
-| Tecnologia | Descrição |
-| :--- | :--- |
-| **React** | Desenvolvimento de interfaces dinâmicas e responsivas |
-| **Tailwind CSS** | Estilização moderna e utilitária |
-| **HTML5** | Marcação semântica e acessível |
-| **CSS3** | Animações, layouts avançados e design responsivo |
-| **EJS** | Templating dinâmico |
-
-### ⚙️ Back-End & Banco de Dados
-
-| Tecnologia | Descrição |
-| :--- | :--- |
-| **Node.js** | Runtime JavaScript para servidor |
-| **Express.js** | Framework web minimalista e flexível |
-| **MongoDB** | Banco de dados NoSQL orientado a documentos |
-
-### 🔧 Ferramentas & Infraestrutura
-
-| Ferramenta | Uso |
-| :--- | :--- |
-| **Git** | Controle de versão e colaboração |
-| **Firebase** | Backend como serviço e realtime database |
-| **Azure** | Computação em nuvem e hospedagem |
-| **Nginx** | Servidor web e proxy reverso |
-| **Linux** | Sistema operacional e administração de servidores |
-| **Cloudinary** | Gerenciamento e otimização de imagens |
-| **Discord.js** | Desenvolvimento de bots para Discord |
+- 💻 I'm currently working on **SpikeOut**, a modern platform for language learning;
+- 🎓 I'm a **Computer Science student** at Etec;
+- 🧩 Passionate about building **complex systems** with intelligent integrations;
+- ⚙️ Focused on **Back-end** and **Front-end** development with emphasis on performance and code organization;
+- 💡 Always seeking **innovation** and improvements in the projects I work on;
+- 📧 How to reach me: [kodadev@email.com](mailto:kodadev@email.com);
 
 ---
 
-## 💡 Filosofia de Desenvolvimento
+## Languages and Tools:
 
-Acredito que **desenvolver não é só programar**. É transformar ideias em experiências reais que impactam a vida das pessoas. Cada projeto que toco é uma oportunidade de criar algo que combine:
-
-- **Performance**: Código otimizado e aplicações rápidas
-- **Estética**: Interfaces bonitas e intuitivas
-- **Experiência**: Fluxos que fazem sentido e delightam o usuário
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+</div>
 
 ---
 
-## 📫 Conecte-se Comigo
+## 📊 GitHub Stats
 
-Estou sempre aberto a novas conexões, oportunidades e conversas sobre tecnologia!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koda&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
 
-- **Instagram**: [@koda.ejs](https://www.instagram.com/koda.ejs/)
-- **Discord**: `kodadev`
+---
+
+## 🎯 My Focus
+
+| Area | Description |
+|:---:|:---|
+| **Full-Stack Development** | Building complete applications from database to UI |
+| **Performance** | Optimized code and fast applications |
+| **User Experience** | Beautiful and intuitive interfaces |
+| **Innovation** | Always exploring new technologies and improvements |
+
+---
+
+## 🌟 Philosophy
+
+> "Developing is not just programming. It's transforming ideas into real experiences."
+
+I believe in creating solutions that balance **performance**, **aesthetics**, and **user experience**. Every project is an opportunity to make a difference.
 
 ---
 
 <div align="center">
-
-**"Desenvolver não é só programar. É transformar ideias em experiências reais."**
+  
+**Made with ❤️ by Koda**
 
 </div>
